@@ -4,9 +4,9 @@
         "name": "United States",
         "flag": "🇺🇸",
         "description": "Generally safe for travelers with standard precautions. Well-developed infrastructure and emergency services.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": true
     },
     {
         "id": "CA",
