@@ -1,0 +1,1794 @@
+[
+    {
+        "id": "US",
+        "name": "United States",
+        "flag": "🇺🇸",
+        "description": "Generally safe for travelers with standard precautions. Well-developed infrastructure and emergency services.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "CA",
+        "name": "Canada",
+        "flag": "🇨🇦",
+        "description": "Very safe destination with excellent healthcare and low crime rates.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "MX",
+        "name": "Mexico",
+        "flag": "🇲🇽",
+        "description": "Exercise caution in certain areas. Tourist zones are generally safe.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧",
+        "description": "Safe destination with excellent infrastructure and healthcare.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "FR",
+        "name": "France",
+        "flag": "🇫🇷",
+        "description": "Safe destination with excellent infrastructure. Be aware of occasional strikes.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "DE",
+        "name": "Germany",
+        "flag": "🇩🇪",
+        "description": "Very safe with excellent public transportation and healthcare.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "IT",
+        "name": "Italy",
+        "flag": "🇮🇹",
+        "description": "Generally safe. Watch for pickpockets in tourist areas.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "ES",
+        "name": "Spain",
+        "flag": "🇪🇸",
+        "description": "UPDATED: Increased security measures due to recent events. Exercise additional caution in major cities.",
+        "safetyStatus": "caution",
+        "region": "Europe",
+        "sendNotification": true
+    },
+    {
+        "id": "JP",
+        "name": "Japan",
+        "flag": "🇯🇵",
+        "description": "Extremely safe with low crime rates and excellent infrastructure.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KR",
+        "name": "South Korea",
+        "flag": "🇰🇷",
+        "description": "Very safe with modern infrastructure and low crime rates.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "CN",
+        "name": "China",
+        "flag": "🇨🇳",
+        "description": "Generally safe for tourists. Be aware of local laws and regulations.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "IN",
+        "name": "India",
+        "flag": "🇮🇳",
+        "description": "Exercise caution. Health and safety standards vary by region.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "TH",
+        "name": "Thailand",
+        "flag": "🇹🇭",
+        "description": "UPDATED: New safety advisory issued due to recent flooding in southern regions. Monitor local conditions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": true
+    },
+    {
+        "id": "AU",
+        "name": "Australia",
+        "flag": "🇦🇺",
+        "description": "Very safe with excellent healthcare and infrastructure.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "NZ",
+        "name": "New Zealand",
+        "flag": "🇳🇿",
+        "description": "Extremely safe with low crime rates and excellent emergency services.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "BR",
+        "name": "Brazil",
+        "flag": "🇧🇷",
+        "description": "Exercise caution, especially in urban areas. Crime rates vary by location.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "AR",
+        "name": "Argentina",
+        "flag": "🇦🇷",
+        "description": "Generally safe with standard precautions. Watch for petty crime.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": true
+    },
+    {
+        "id": "EG",
+        "name": "Egypt",
+        "flag": "🇪🇬",
+        "description": "Exercise caution due to political instability in some regions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ZA",
+        "name": "South Africa",
+        "flag": "🇿🇦",
+        "description": "Exercise caution due to high crime rates in certain areas.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "AF",
+        "name": "Afghanistan",
+        "flag": "🇦🇫",
+        "description": "CRITICAL: Avoid all travel due to escalating security concerns and instability.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": true
+    },
+    {
+        "id": "PT",
+        "name": "Portugal",
+        "flag": "🇵🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "NL",
+        "name": "Netherlands",
+        "flag": "🇳🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "BE",
+        "name": "Belgium",
+        "flag": "🇧🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "LU",
+        "name": "Luxembourg",
+        "flag": "🇱🇺",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "IE",
+        "name": "Ireland",
+        "flag": "🇮🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "NO",
+        "name": "Norway",
+        "flag": "🇳🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "SE",
+        "name": "Sweden",
+        "flag": "🇸🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "FI",
+        "name": "Finland",
+        "flag": "🇫🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "DK",
+        "name": "Denmark",
+        "flag": "🇩🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "IS",
+        "name": "Iceland",
+        "flag": "🇮🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "CH",
+        "name": "Switzerland",
+        "flag": "🇨🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "AT",
+        "name": "Austria",
+        "flag": "🇦🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "PL",
+        "name": "Poland",
+        "flag": "🇵🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "CZ",
+        "name": "Czechia",
+        "flag": "🇨🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "SK",
+        "name": "Slovakia",
+        "flag": "🇸🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "HU",
+        "name": "Hungary",
+        "flag": "🇭🇺",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "RO",
+        "name": "Romania",
+        "flag": "🇷🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "BG",
+        "name": "Bulgaria",
+        "flag": "🇧🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "GR",
+        "name": "Greece",
+        "flag": "🇬🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "CY",
+        "name": "Cyprus",
+        "flag": "🇨🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "MT",
+        "name": "Malta",
+        "flag": "🇲🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "EE",
+        "name": "Estonia",
+        "flag": "🇪🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "LV",
+        "name": "Latvia",
+        "flag": "🇱🇻",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "LT",
+        "name": "Lithuania",
+        "flag": "🇱🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "SI",
+        "name": "Slovenia",
+        "flag": "🇸🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "HR",
+        "name": "Croatia",
+        "flag": "🇭🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "RS",
+        "name": "Serbia",
+        "flag": "🇷🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "BA",
+        "name": "Bosnia and Herz.",
+        "flag": "🇧🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "ME",
+        "name": "Montenegro",
+        "flag": "🇲🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "MK",
+        "name": "North Macedonia",
+        "flag": "🇲🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "AL",
+        "name": "Albania",
+        "flag": "🇦🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "BY",
+        "name": "Belarus",
+        "flag": "🇧🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "UA",
+        "name": "Ukraine",
+        "flag": "🇺🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "MD",
+        "name": "Moldova",
+        "flag": "🇲🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "GE",
+        "name": "Georgia",
+        "flag": "🇬🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "AM",
+        "name": "Armenia",
+        "flag": "🇦🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "AZ",
+        "name": "Azerbaijan",
+        "flag": "🇦🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "TR",
+        "name": "Turkey",
+        "flag": "🇹🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "RU",
+        "name": "Russia",
+        "flag": "🇷🇺",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "LI",
+        "name": "Liechtenstein",
+        "flag": "🇱🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "SM",
+        "name": "San Marino",
+        "flag": "🇸🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "MC",
+        "name": "Monaco",
+        "flag": "🇲🇨",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "AD",
+        "name": "Andorra",
+        "flag": "🇦🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "VA",
+        "name": "Vatican City",
+        "flag": "🇻🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "GT",
+        "name": "Guatemala",
+        "flag": "🇬🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "HN",
+        "name": "Honduras",
+        "flag": "🇭🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "SV",
+        "name": "El Salvador",
+        "flag": "🇸🇻",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "NI",
+        "name": "Nicaragua",
+        "flag": "🇳🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "CR",
+        "name": "Costa Rica",
+        "flag": "🇨🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "PA",
+        "name": "Panama",
+        "flag": "🇵🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "BZ",
+        "name": "Belize",
+        "flag": "🇧🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "CU",
+        "name": "Cuba",
+        "flag": "🇨🇺",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "DO",
+        "name": "Dominican Republic",
+        "flag": "🇩🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "HT",
+        "name": "Haiti",
+        "flag": "🇭🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "JM",
+        "name": "Jamaica",
+        "flag": "🇯🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "TT",
+        "name": "Trinidad and Tobago",
+        "flag": "🇹🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "BB",
+        "name": "Barbados",
+        "flag": "🇧🇧",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "BS",
+        "name": "Bahamas",
+        "flag": "🇧🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "AG",
+        "name": "Antigua and Barbuda",
+        "flag": "🇦🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "DM",
+        "name": "Dominica",
+        "flag": "🇩🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "GD",
+        "name": "Grenada",
+        "flag": "🇬🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "KN",
+        "name": "Saint Kitts and Nevis",
+        "flag": "🇰🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "LC",
+        "name": "Saint Lucia",
+        "flag": "🇱🇨",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "flag": "🇻🇨",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "CO",
+        "name": "Colombia",
+        "flag": "🇨🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "VE",
+        "name": "Venezuela",
+        "flag": "🇻🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "EC",
+        "name": "Ecuador",
+        "flag": "🇪🇨",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "PE",
+        "name": "Peru",
+        "flag": "🇵🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "BO",
+        "name": "Bolivia",
+        "flag": "🇧🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "PY",
+        "name": "Paraguay",
+        "flag": "🇵🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "UY",
+        "name": "Uruguay",
+        "flag": "🇺🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "GY",
+        "name": "Guyana",
+        "flag": "🇬🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "SR",
+        "name": "Suriname",
+        "flag": "🇸🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "TW",
+        "name": "Taiwan",
+        "flag": "🇹🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "HK",
+        "name": "Hong Kong",
+        "flag": "🇭🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "MO",
+        "name": "Macau",
+        "flag": "🇲🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "SG",
+        "name": "Singapore",
+        "flag": "🇸🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "MY",
+        "name": "Malaysia",
+        "flag": "🇲🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "ID",
+        "name": "Indonesia",
+        "flag": "🇮🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "PH",
+        "name": "Philippines",
+        "flag": "🇵🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "VN",
+        "name": "Vietnam",
+        "flag": "🇻🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "LA",
+        "name": "Laos",
+        "flag": "🇱🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "MM",
+        "name": "Myanmar",
+        "flag": "🇲🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "BN",
+        "name": "Brunei",
+        "flag": "🇧🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "NP",
+        "name": "Nepal",
+        "flag": "🇳🇵",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "BT",
+        "name": "Bhutan",
+        "flag": "🇧🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "BD",
+        "name": "Bangladesh",
+        "flag": "🇧🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "PK",
+        "name": "Pakistan",
+        "flag": "🇵🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "LK",
+        "name": "Sri Lanka",
+        "flag": "🇱🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "MV",
+        "name": "Maldives",
+        "flag": "🇲🇻",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KH",
+        "name": "Cambodia",
+        "flag": "🇰🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "AE",
+        "name": "United Arab Emirates",
+        "flag": "🇦🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "SA",
+        "name": "Saudi Arabia",
+        "flag": "🇸🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": true
+    },
+    {
+        "id": "QA",
+        "name": "Qatar",
+        "flag": "🇶🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "BH",
+        "name": "Bahrain",
+        "flag": "🇧🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KW",
+        "name": "Kuwait",
+        "flag": "🇰🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "OM",
+        "name": "Oman",
+        "flag": "🇴🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "IR",
+        "name": "Iran",
+        "flag": "🇮🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "IQ",
+        "name": "Iraq",
+        "flag": "🇮🇶",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "JO",
+        "name": "Jordan",
+        "flag": "🇯🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "LB",
+        "name": "Lebanon",
+        "flag": "🇱🇧",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "SY",
+        "name": "Syria",
+        "flag": "🇸🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "YE",
+        "name": "Yemen",
+        "flag": "🇾🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "IL",
+        "name": "Israel",
+        "flag": "🇮🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "PS",
+        "name": "Palestine",
+        "flag": "🇵🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KZ",
+        "name": "Kazakhstan",
+        "flag": "🇰🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KG",
+        "name": "Kyrgyzstan",
+        "flag": "🇰🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "TJ",
+        "name": "Tajikistan",
+        "flag": "🇹🇯",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "TM",
+        "name": "Turkmenistan",
+        "flag": "🇹🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "UZ",
+        "name": "Uzbekistan",
+        "flag": "🇺🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "MN",
+        "name": "Mongolia",
+        "flag": "🇲🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "KP",
+        "name": "North Korea",
+        "flag": "🇰🇵",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "avoid",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "TL",
+        "name": "Timor-Leste",
+        "flag": "🇹🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Asia",
+        "sendNotification": false
+    },
+    {
+        "id": "CL",
+        "name": "Chile",
+        "flag": "🇨🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "PY",
+        "name": "Paraguay",
+        "flag": "🇵🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "UY",
+        "name": "Uruguay",
+        "flag": "🇺🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "GY",
+        "name": "Guyana",
+        "flag": "🇬🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "SR",
+        "name": "Suriname",
+        "flag": "🇸🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "GF",
+        "name": "French Guiana",
+        "flag": "🇬🇫",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South America",
+        "sendNotification": false
+    },
+    {
+        "id": "AQ",
+        "name": "Antarctica",
+        "flag": "🇦🇶",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Other",
+        "sendNotification": false
+    },
+    {
+        "id": "GL",
+        "name": "Greenland",
+        "flag": "🇬🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "IS",
+        "name": "Iceland",
+        "flag": "🇮🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "FO",
+        "name": "Faroe Islands",
+        "flag": "🇫🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "BM",
+        "name": "Bermuda",
+        "flag": "🇧🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "flag": "🇵🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "North America",
+        "sendNotification": false
+    },
+    {
+        "id": "AO",
+        "name": "Angola",
+        "flag": "🇦🇴",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "NG",
+        "name": "Nigeria",
+        "flag": "🇳🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "KE",
+        "name": "Kenya",
+        "flag": "🇰🇪",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "TZ",
+        "name": "Tanzania",
+        "flag": "🇹🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "UG",
+        "name": "Uganda",
+        "flag": "🇺🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "GH",
+        "name": "Ghana",
+        "flag": "🇬🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "MA",
+        "name": "Morocco",
+        "flag": "🇲🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "DZ",
+        "name": "Algeria",
+        "flag": "🇩🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "TN",
+        "name": "Tunisia",
+        "flag": "🇹🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ET",
+        "name": "Ethiopia",
+        "flag": "🇪🇹",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "SN",
+        "name": "Senegal",
+        "flag": "🇸🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CI",
+        "name": "Côte d’Ivoire",
+        "flag": "🇨🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "LY",
+        "name": "Libya",
+        "flag": "🇱🇾",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "SD",
+        "name": "Sudan",
+        "flag": "🇸🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "TD",
+        "name": "Chad",
+        "flag": "🇹🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ML",
+        "name": "Mali",
+        "flag": "🇲🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "MR",
+        "name": "Mauritania",
+        "flag": "🇲🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "EH",
+        "name": "Western Sahara",
+        "flag": "🇪🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "GM",
+        "name": "The Gambia",
+        "flag": "🇬🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "GN",
+        "name": "Guinea",
+        "flag": "🇬🇳",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "SL",
+        "name": "Sierra Leone",
+        "flag": "🇸🇱",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "LR",
+        "name": "Liberia",
+        "flag": "🇱🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CI",
+        "name": "Côte d'Ivoire",
+        "flag": "🇨🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "TGO",
+        "name": "Togo",
+        "flag": "🇹🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "BJ",
+        "name": "Benin",
+        "flag": "🇧🇯",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "BF",
+        "name": "Burkina Faso",
+        "flag": "🇧🇫",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CMR",
+        "name": "Cameroon",
+        "flag": "🇨🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CG",
+        "name": "Republic of the Congo",
+        "flag": "🇨🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "GAB",
+        "name": "Gabon",
+        "flag": "🇬🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "RW",
+        "name": "Rwanda",
+        "flag": "🇷🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "BI",
+        "name": "Burundi",
+        "flag": "🇧🇮",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ZM",
+        "name": "Zambia",
+        "flag": "🇿🇲",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "MW",
+        "name": "Malawi",
+        "flag": "🇲🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "MOZ",
+        "name": "Mozambique",
+        "flag": "🇲🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ZWE",
+        "name": "Zimbabwe",
+        "flag": "🇿🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "BWA",
+        "name": "Botswana",
+        "flag": "🇧🇼",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "NAM",
+        "name": "Namibia",
+        "flag": "🇳🇦",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "LSO",
+        "name": "Lesotho",
+        "flag": "🇱🇸",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "SZ",
+        "name": "Eswatini",
+        "flag": "🇸🇿",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "MG",
+        "name": "Madagascar",
+        "flag": "🇲🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "ER",
+        "name": "Eritrea",
+        "flag": "🇪🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "DJ",
+        "name": "Djibouti",
+        "flag": "🇩🇯",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "XK",
+        "name": "Kosovo",
+        "flag": "🇽🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Europe",
+        "sendNotification": false
+    },
+    {
+        "id": "FR-NC",
+        "name": "New Caledonia",
+        "flag": "🇳🇨",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "VUT",
+        "name": "Vanuatu",
+        "flag": "🇻🇺",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "FJI",
+        "name": "Fiji",
+        "flag": "🇫🇯",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "US-PR",
+        "name": "Puerto Rico",
+        "flag": "🇵🇷",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Caribbean",
+        "sendNotification": false
+    },
+    {
+        "id": "SB",
+        "name": "Solomon Is.",
+        "flag": "🇸🇧",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "Oceania",
+        "sendNotification": false
+    },
+    {
+        "id": "EH",
+        "name": "W. Sahara",
+        "flag": "🇪🇭",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CF",
+        "name": "Central African Rep.",
+        "flag": "🇨🇫",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "CD",
+        "name": "Dem. Rep. Congo",
+        "flag": "🇨🇩",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Africa",
+        "sendNotification": false
+    },
+    {
+        "id": "FR-TF",
+        "name": "Fr. S. Antarctic Lands",
+        "flag": "🇹🇫",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Indian Ocean",
+        "sendNotification": false
+    },
+    {
+        "id": "FK",
+        "name": "Falkland Is.",
+        "flag": "🇫🇰",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "safe",
+        "region": "South Atlantica",
+        "sendNotification": false
+    },
+    {
+        "id": "PG",
+        "name": "Papua New Guinea",
+        "flag": "🇵🇬",
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Oceania",
+        "sendNotification": false
+    }
+]
+
