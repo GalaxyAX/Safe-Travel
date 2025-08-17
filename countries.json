@@ -526,9 +526,9 @@
         "name": "Russia",
         "flag": "🇷🇺",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": true
     },
     {
         "id": "LI",
