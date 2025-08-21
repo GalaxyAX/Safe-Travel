@@ -1206,42 +1206,6 @@
         "sendNotification": false
     },
     {
-        "id": "PY",
-        "name": "Paraguay",
-        "flag": "🇵🇾",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
-        "region": "South America",
-        "sendNotification": false
-    },
-    {
-        "id": "UY",
-        "name": "Uruguay",
-        "flag": "🇺🇾",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
-        "region": "South America",
-        "sendNotification": false
-    },
-    {
-        "id": "GY",
-        "name": "Guyana",
-        "flag": "🇬🇾",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
-        "region": "South America",
-        "sendNotification": false
-    },
-    {
-        "id": "SR",
-        "name": "Suriname",
-        "flag": "🇸🇷",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
-        "region": "South America",
-        "sendNotification": false
-    },
-    {
         "id": "GF",
         "name": "French Guiana",
         "flag": "🇬🇫",
@@ -1266,15 +1230,6 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
-    },
-    {
-        "id": "IS",
-        "name": "Iceland",
-        "flag": "🇮🇸",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
-        "region": "Europe",
         "sendNotification": false
     },
     {
@@ -1497,15 +1452,6 @@
         "id": "LR",
         "name": "Liberia",
         "flag": "🇱🇷",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
-        "region": "Africa",
-        "sendNotification": false
-    },
-    {
-        "id": "CI",
-        "name": "Côte d'Ivoire",
-        "flag": "🇨🇮",
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
