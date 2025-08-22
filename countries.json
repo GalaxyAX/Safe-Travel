@@ -1683,15 +1683,6 @@
         "sendNotification": false
     },
     {
-        "id": "EH",
-        "name": "W. Sahara",
-        "flag": "🇪🇭",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
-        "region": "Africa",
-        "sendNotification": false
-    },
-    {
         "id": "CF",
         "name": "Central African Rep.",
         "flag": "🇨🇫",
