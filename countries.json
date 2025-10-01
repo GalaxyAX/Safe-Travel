@@ -103,7 +103,7 @@
         "name": "India",
         "flag": "🇮🇳",
         "description": "Exercise caution. Health and safety standards vary by region.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
