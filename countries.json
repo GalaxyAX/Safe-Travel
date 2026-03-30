@@ -369,11 +369,11 @@
         "sendNotification": false
     },
     {
-        "id": "SOM",
+        "id": "SO",
         "name": "Somalia",
         "flag": "🇸🇴",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1314,11 +1314,11 @@
         "sendNotification": false
     },
     {
-        "id": "NER",
+        "id": "NE",
         "name": "Niger",
         "flag": "🇳🇪",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1485,11 +1485,11 @@
         "sendNotification": false
     },
     {
-        "id": "GNB",
+        "id": "GW",
         "name": "Guinea Bissau",
         "flag": "🇬🇼",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1530,7 +1530,7 @@
         "sendNotification": false
     },
     {
-        "id": "TGO",
+        "id": "TG",
         "name": "Togo",
         "flag": "🇹🇬",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1557,7 +1557,7 @@
         "sendNotification": false
     },
     {
-        "id": "CMR",
+        "id": "CM",
         "name": "Cameroon",
         "flag": "🇨🇲",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1575,7 +1575,7 @@
         "sendNotification": false
     },
     {
-        "id": "GAB",
+        "id": "GA",
         "name": "Gabon",
         "flag": "🇬🇦",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1620,7 +1620,7 @@
         "sendNotification": false
     },
     {
-        "id": "MOZ",
+        "id": "MZ",
         "name": "Mozambique",
         "flag": "🇲🇿",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1629,7 +1629,7 @@
         "sendNotification": false
     },
     {
-        "id": "ZWE",
+        "id": "ZW",
         "name": "Zimbabwe",
         "flag": "🇿🇼",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1638,7 +1638,7 @@
         "sendNotification": false
     },
     {
-        "id": "BWA",
+        "id": "BW",
         "name": "Botswana",
         "flag": "🇧🇼",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1647,7 +1647,7 @@
         "sendNotification": false
     },
     {
-        "id": "NAM",
+        "id": "NA",
         "name": "Namibia",
         "flag": "🇳🇦",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1656,7 +1656,7 @@
         "sendNotification": false
     },
     {
-        "id": "LSO",
+        "id": "LS",
         "name": "Lesotho",
         "flag": "🇱🇸",
         "description": "Safety details not available yet. Use standard precautions.",
