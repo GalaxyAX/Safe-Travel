@@ -1798,5 +1798,14 @@
         "safetyStatus": "caution",
         "region": "Oceania",
         "sendNotification": false
+    },
+    {
+        "id": "TF",
+        "name": "French Southern and Antarctic Lands",
+        "flag": "🇹🇫", 
+        "description": "Safety details not available yet. Use standard precautions.",
+        "safetyStatus": "caution",
+        "region": "Oceania",
+        "sendNotification": false
     }
-]
+] 
