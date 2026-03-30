@@ -1332,11 +1332,11 @@
         "sendNotification": false
     },
     {
-        "id": "SSD",
+        "id": "SS",
         "name": "South Sudan",
         "flag": "🇸🇸",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
