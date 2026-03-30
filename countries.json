@@ -13,7 +13,7 @@
         "name": "Canada",
         "flag": "🇨🇦",
         "description": "Very safe destination with excellent healthcare and low crime rates.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "safe",
         "region": "North America",
         "sendNotification": false
     },
@@ -30,8 +30,8 @@
         "id": "GB",
         "name": "United Kingdom",
         "flag": "🇬🇧",
-        "description": "Safe destination with excellent infrastructure and healthcare.",
-        "safetyStatus": "safe",
+        "description": "Generally safe for travelers with standard precautions.",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -39,8 +39,8 @@
         "id": "FR",
         "name": "France",
         "flag": "🇫🇷",
-        "description": "Safe destination with excellent infrastructure. Be aware of occasional strikes.",
-        "safetyStatus": "safe",
+        "description": "Generally safe for travelers with standard precautions.",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -48,8 +48,8 @@
         "id": "DE",
         "name": "Germany",
         "flag": "🇩🇪",
-        "description": "Very safe with excellent public transportation and healthcare.",
-        "safetyStatus": "safe",
+        "description": "Generally safe for travelers with standard precautions.",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -58,7 +58,7 @@
         "name": "Italy",
         "flag": "🇮🇹",
         "description": "Generally safe. Watch for pickpockets in tourist areas.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -66,10 +66,10 @@
         "id": "ES",
         "name": "Spain",
         "flag": "🇪🇸",
-        "description": "UPDATED: Increased security measures due to recent events. Exercise additional caution in major cities.",
+        "description": "Increased security measures due to recent events. Exercise additional caution in major cities.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "JP",
@@ -103,7 +103,7 @@
         "name": "India",
         "flag": "🇮🇳",
         "description": "Exercise caution. Health and safety standards vary by region.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -111,10 +111,10 @@
         "id": "TH",
         "name": "Thailand",
         "flag": "🇹🇭",
-        "description": "UPDATED: New safety advisory issued due to recent flooding in southern regions. Monitor local conditions.",
+        "description": "New safety advisory issued due to recent flooding in southern regions. Monitor local conditions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "AU",
@@ -148,9 +148,9 @@
         "name": "Argentina",
         "flag": "🇦🇷",
         "description": "Generally safe with standard precautions. Watch for petty crime.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "South America",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "EG",
@@ -177,7 +177,7 @@
         "description": "CRITICAL: Avoid all travel due to escalating security concerns and instability.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "PT",
@@ -193,7 +193,7 @@
         "name": "Netherlands",
         "flag": "🇳🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -202,7 +202,7 @@
         "name": "Belgium",
         "flag": "🇧🇪",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -238,7 +238,7 @@
         "name": "Sweden",
         "flag": "🇸🇪",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -256,7 +256,7 @@
         "name": "Denmark",
         "flag": "🇩🇰",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -355,7 +355,7 @@
         "name": "Cyprus",
         "flag": "🇨🇾",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Europe",
         "sendNotification": false
     },
@@ -364,7 +364,7 @@
         "name": "Northern Cyprus",
         "flag": "🇹🇷",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -382,7 +382,7 @@
         "name": "Somaliland",
         "flag": "🇸🇴",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -445,7 +445,7 @@
         "name": "Republic of Serbia",
         "flag": "🇷🇸",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -454,7 +454,7 @@
         "name": "Bosnia and Herzegovina",
         "flag": "🇧🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -481,7 +481,7 @@
         "name": "Albania",
         "flag": "🇦🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -490,7 +490,7 @@
         "name": "Belarus",
         "flag": "🇧🇾",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Europe",
         "sendNotification": false
     },
@@ -498,17 +498,17 @@
         "id": "UA",
         "name": "Ukraine",
         "flag": "🇺🇦",
-        "description": "Safety details not available yet. Use standard precautions.",
+        "description": "Military actions are currently taking place on the territory of Ukraine.",
         "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "MD",
         "name": "Moldova",
         "flag": "🇲🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -526,7 +526,7 @@
         "name": "Armenia",
         "flag": "🇦🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -535,7 +535,7 @@
         "name": "Azerbaijan",
         "flag": "🇦🇿",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -544,7 +544,7 @@
         "name": "Turkey",
         "flag": "🇹🇷",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -553,9 +553,9 @@
         "name": "Russia",
         "flag": "🇷🇺",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "LI",
@@ -571,7 +571,7 @@
         "name": "San Marino",
         "flag": "🇸🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -598,7 +598,7 @@
         "name": "Vatican City",
         "flag": "🇻🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false
     },
@@ -607,7 +607,7 @@
         "name": "Guatemala",
         "flag": "🇬🇹",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": false
     },
@@ -616,7 +616,7 @@
         "name": "Honduras",
         "flag": "🇭🇳",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": false
     },
@@ -625,7 +625,7 @@
         "name": "El Salvador",
         "flag": "🇸🇻",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "North America",
         "sendNotification": false
     },
@@ -634,7 +634,7 @@
         "name": "Nicaragua",
         "flag": "🇳🇮",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": false
     },
@@ -643,7 +643,7 @@
         "name": "Costa Rica",
         "flag": "🇨🇷",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "North America",
         "sendNotification": false
     },
@@ -670,7 +670,7 @@
         "name": "Cuba",
         "flag": "🇨🇺",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": false
     },
@@ -706,7 +706,7 @@
         "name": "Trinidad and Tobago",
         "flag": "🇹🇹",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": false
     },
@@ -751,7 +751,7 @@
         "name": "Grenada",
         "flag": "🇬🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "North America",
         "sendNotification": false
     },
@@ -787,7 +787,7 @@
         "name": "Colombia",
         "flag": "🇨🇴",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "South America",
         "sendNotification": false
     },
@@ -841,7 +841,7 @@
         "name": "Uruguay",
         "flag": "🇺🇾",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "South America",
         "sendNotification": false
     },
@@ -850,7 +850,7 @@
         "name": "Guyana",
         "flag": "🇬🇾",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "South America",
         "sendNotification": false
     },
@@ -877,7 +877,7 @@
         "name": "Hong Kong",
         "flag": "🇭🇰",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -886,7 +886,7 @@
         "name": "Macau",
         "flag": "🇲🇴",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -913,7 +913,7 @@
         "name": "Indonesia",
         "flag": "🇮🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -940,7 +940,7 @@
         "name": "Laos",
         "flag": "🇱🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -949,7 +949,7 @@
         "name": "Myanmar",
         "flag": "🇲🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -967,7 +967,7 @@
         "name": "Nepal",
         "flag": "🇳🇵",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -985,7 +985,7 @@
         "name": "Bangladesh",
         "flag": "🇧🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -994,7 +994,7 @@
         "name": "Pakistan",
         "flag": "🇵🇰",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1003,7 +1003,7 @@
         "name": "Sri Lanka",
         "flag": "🇱🇰",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1021,7 +1021,7 @@
         "name": "Cambodia",
         "flag": "🇰🇭",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1030,7 +1030,7 @@
         "name": "United Arab Emirates",
         "flag": "🇦🇪",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1041,14 +1041,14 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": true
+        "sendNotification": false
     },
     {
         "id": "QA",
         "name": "Qatar",
         "flag": "🇶🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1057,7 +1057,7 @@
         "name": "Bahrain",
         "flag": "🇧🇭",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1066,7 +1066,7 @@
         "name": "Kuwait",
         "flag": "🇰🇼",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1075,7 +1075,7 @@
         "name": "Oman",
         "flag": "🇴🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1084,7 +1084,7 @@
         "name": "Iran",
         "flag": "🇮🇷",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1102,7 +1102,7 @@
         "name": "Jordan",
         "flag": "🇯🇴",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1111,7 +1111,7 @@
         "name": "Lebanon",
         "flag": "🇱🇧",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1138,7 +1138,7 @@
         "name": "Israel",
         "flag": "🇮🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1147,7 +1147,7 @@
         "name": "West Bank",
         "flag": "🇵🇸",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1174,7 +1174,7 @@
         "name": "Kyrgyzstan",
         "flag": "🇰🇬",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1192,7 +1192,7 @@
         "name": "Turkmenistan",
         "flag": "🇹🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1228,7 +1228,7 @@
         "name": "East Timor",
         "flag": "🇹🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
     },
@@ -1237,7 +1237,7 @@
         "name": "Chile",
         "flag": "🇨🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "South America",
         "sendNotification": false
     },
@@ -1255,7 +1255,7 @@
         "name": "Antarctica",
         "flag": "🇦🇶",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Other",
         "sendNotification": false
     },
@@ -1264,7 +1264,7 @@
         "name": "Greenland",
         "flag": "🇬🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "North America",
         "sendNotification": false
     },
@@ -1309,7 +1309,7 @@
         "name": "Nigeria",
         "flag": "🇳🇬",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1345,7 +1345,7 @@
         "name": "United Republic of Tanzania",
         "flag": "🇹🇿",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1354,7 +1354,7 @@
         "name": "Uganda",
         "flag": "🇺🇬",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1363,7 +1363,7 @@
         "name": "Ghana",
         "flag": "🇬🇭",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1372,7 +1372,7 @@
         "name": "Morocco",
         "flag": "🇲🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1390,7 +1390,7 @@
         "name": "Tunisia",
         "flag": "🇹🇳",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1426,7 +1426,7 @@
         "name": "Libya",
         "flag": "🇱🇾",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1435,7 +1435,7 @@
         "name": "Sudan",
         "flag": "🇸🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1444,7 +1444,7 @@
         "name": "Chad",
         "flag": "🇹🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1453,7 +1453,7 @@
         "name": "Mali",
         "flag": "🇲🇱",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1462,7 +1462,7 @@
         "name": "Mauritania",
         "flag": "🇲🇷",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1552,7 +1552,7 @@
         "name": "Burkina Faso",
         "flag": "🇧🇫",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1597,7 +1597,7 @@
         "name": "Burundi",
         "flag": "🇧🇮",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1606,7 +1606,7 @@
         "name": "Zambia",
         "flag": "🇿🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1714,7 +1714,7 @@
         "name": "New Caledonia",
         "flag": "🇳🇨",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Oceania",
         "sendNotification": false
     },
@@ -1750,7 +1750,7 @@
         "name": "Solomon Islands",
         "flag": "🇸🇧",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "Oceania",
         "sendNotification": false
     },
@@ -1759,7 +1759,7 @@
         "name": "Central African Republic",
         "flag": "🇨🇫",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1768,7 +1768,7 @@
         "name": "Democratic Republic of the Congo",
         "flag": "🇨🇩",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Africa",
         "sendNotification": false
     },
@@ -1786,7 +1786,7 @@
         "name": "Falkland Islands",
         "flag": "🇫🇰",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "safetyStatus": "caution",
         "region": "South Atlantica",
         "sendNotification": false
     },
@@ -1795,7 +1795,7 @@
         "name": "Papua New Guinea",
         "flag": "🇵🇬",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Oceania",
         "sendNotification": false
     },
