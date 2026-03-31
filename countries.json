@@ -1332,7 +1332,7 @@
         "sendNotification": false
     },
     {
-        "id": "SSD",
+        "id": "SDS",
         "name": "South Sudan",
         "flag": "🇸🇸",
         "description": "Safety details not available yet. Use standard precautions.",
@@ -1467,7 +1467,7 @@
         "sendNotification": false
     },
     {
-        "id": "ESH",
+        "id": "SAH",
         "name": "Western Sahara",
         "flag": "🇪🇭",
         "description": "Safety details not available yet. Use standard precautions.",
