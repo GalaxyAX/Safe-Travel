@@ -1773,15 +1773,6 @@
         "sendNotification": false
     },
     {
-        "id": "ATF",
-        "name": "Fr. S. Antarctic Lands",
-        "flag": "🇹🇫",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
-        "region": "Indian Ocean",
-        "sendNotification": false
-    },
-    {
         "id": "FLK",
         "name": "Falkland Islands",
         "flag": "🇫🇰",
