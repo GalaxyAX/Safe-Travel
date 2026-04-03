@@ -1047,7 +1047,7 @@
         "id": "QAT",
         "name": "Qatar",
         "flag": "🇶🇦",
-        "description": "Safety details not available yet. Use standard precautions.",
+        "description": "There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
@@ -1056,7 +1056,7 @@
         "id": "BHR",
         "name": "Bahrain",
         "flag": "🇧🇭",
-        "description": "Safety details not available yet. Use standard precautions.",
+        "description": "There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
