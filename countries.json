@@ -1092,7 +1092,7 @@
         "id": "IRQ",
         "name": "Iraq",
         "flag": "🇮🇶",
-        "description": "Safety details not available yet. Use standard precautions.",
+        "description": "Civil unrest, There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
         "sendNotification": false
