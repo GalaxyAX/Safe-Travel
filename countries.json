@@ -921,7 +921,7 @@
         "id": "PHL",
         "name": "Philippines",
         "flag": "🇵🇭",
-        "description": "Safety details not available yet. Use standard precautions.",
+        "description": "Threat of earthquakes in the region.",
         "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false
