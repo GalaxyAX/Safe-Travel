@@ -220,7 +220,7 @@
         "name": "Ireland",
         "flag": "🇮🇪",
         "description": "Farmer protests are causing disruptions to transportation and mobility across the country.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": true
     },
