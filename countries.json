@@ -219,10 +219,10 @@
         "id": "IRL",
         "name": "Ireland",
         "flag": "🇮🇪",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "description": "Farmer protests are causing disruptions to transportation and mobility across the country.",
+        "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": true
     },
     {
         "id": "NOR",
