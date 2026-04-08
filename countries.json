@@ -3,7 +3,7 @@
         "id": "USA",
         "name": "United States of America",
         "flag": "🇺🇸",
-        "description": "Natural disaster in the state of California.",
+        "description": "Cyberattacks may disrupt critical infrastructure systems.",
         "safetyStatus": "caution",
         "region": "North America",
         "sendNotification": true
