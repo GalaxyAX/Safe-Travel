@@ -6,7 +6,13 @@
         "description": "Cyberattacks may disrupt critical infrastructure systems.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": true
+        "sendNotification": true,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 80,
+            "politicalStability": 70,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "CAN",
@@ -15,7 +21,13 @@
         "description": "Very safe destination with excellent healthcare and low crime rates.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 80,
+            "politicalStability": 90,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MEX",
@@ -24,7 +36,13 @@
         "description": "Exercise caution in certain areas. Tourist zones are generally safe.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 65,
+            "politicalStability": 55,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "GBR",
@@ -33,7 +51,13 @@
         "description": "Generally safe for travelers with standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "FRA",
@@ -42,7 +66,13 @@
         "description": "Generally safe for travelers with standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "DEU",
@@ -51,7 +81,13 @@
         "description": "Generally safe for travelers with standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "ITA",
@@ -60,7 +96,13 @@
         "description": "Generally safe. Watch for pickpockets in tourist areas.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 80,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "ESP",
@@ -69,7 +111,13 @@
         "description": "Increased security measures due to recent events. Exercise additional caution in major cities.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 90,
+            "politicalStability": 70,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "JPN",
@@ -78,7 +126,13 @@
         "description": "Extremely safe with low crime rates and excellent infrastructure.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "KOR",
@@ -87,7 +141,13 @@
         "description": "Very safe with modern infrastructure and low crime rates.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 80,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "CHN",
@@ -96,7 +156,13 @@
         "description": "Generally safe for tourists. Be aware of local laws and regulations.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 80,
+            "politicalStability": 75,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "IND",
@@ -105,7 +171,13 @@
         "description": "Exercise caution. Health and safety standards vary by region.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "THA",
@@ -114,7 +186,13 @@
         "description": "New safety advisory issued due to recent flooding in southern regions. Monitor local conditions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 80,
+            "politicalStability": 50,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "AUS",
@@ -123,7 +201,13 @@
         "description": "Very safe with excellent healthcare and infrastructure.",
         "safetyStatus": "safe",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 92,
+            "politicalStability": 80,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "NZL",
@@ -132,7 +216,13 @@
         "description": "Extremely safe with low crime rates and excellent emergency services.",
         "safetyStatus": "safe",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 92,
+            "politicalStability": 90,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "BRA",
@@ -141,7 +231,13 @@
         "description": "Exercise caution, especially in urban areas. Crime rates vary by location.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 65,
+            "politicalStability": 55,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "ARG",
@@ -150,7 +246,13 @@
         "description": "Generally safe with standard precautions. Watch for petty crime.",
         "safetyStatus": "safe",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 65,
+            "politicalStability": 70,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "EGY",
@@ -159,7 +261,13 @@
         "description": "Exercise caution due to political instability in some regions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 68,
+            "politicalStability": 75,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "ZAF",
@@ -168,7 +276,13 @@
         "description": "Exercise caution due to high crime rates in certain areas.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 25,
+            "healthEpidemic": 65,
+            "politicalStability": 40,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "AFG",
@@ -177,7 +291,13 @@
         "description": "CRITICAL: Avoid all travel due to escalating security concerns and instability.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 15,
+            "politicalStability": 10,
+            "naturalDisaster": 25
+        }
     },
     {
         "id": "PRT",
@@ -186,7 +306,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 88,
+            "politicalStability": 82,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "NLD",
@@ -195,7 +321,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 93,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "BEL",
@@ -204,7 +336,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 93,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "LUX",
@@ -213,7 +351,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 94,
+            "politicalStability": 98,
+            "naturalDisaster": 90
+        }
     },
     {
         "id": "IRL",
@@ -222,7 +366,13 @@
         "description": "Farmer protests are causing disruptions to transportation and mobility across the country.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": true
+        "sendNotification": true,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 84,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "NOR",
@@ -231,7 +381,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 94,
+            "healthEpidemic": 95,
+            "politicalStability": 97,
+            "naturalDisaster": 90
+        }
     },
     {
         "id": "SWE",
@@ -240,7 +396,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 93,
+            "politicalStability": 85,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "FIN",
@@ -249,7 +411,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 94,
+            "politicalStability": 90,
+            "naturalDisaster": 90
+        }
     },
     {
         "id": "DNK",
@@ -258,7 +426,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 93,
+            "healthEpidemic": 95,
+            "politicalStability": 90,
+            "naturalDisaster": 90
+        }
     },
     {
         "id": "ISL",
@@ -267,7 +441,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 97,
+            "healthEpidemic": 96,
+            "politicalStability": 98,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "CHE",
@@ -276,7 +456,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 96,
+            "politicalStability": 98,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "AUT",
@@ -285,7 +471,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 93,
+            "healthEpidemic": 92,
+            "politicalStability": 85,
+            "naturalDisaster": 82
+        }
     },
     {
         "id": "POL",
@@ -294,7 +486,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "CZE",
@@ -303,7 +501,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 88,
+            "politicalStability": 90,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "SVK",
@@ -312,16 +516,28 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 82,
+            "politicalStability": 80,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "HUN",
         "name": "Hungary",
         "flag": "🇭🇺",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "safe",
+        "description": "Threat of political provocations.",
+        "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 75,
+            "politicalStability": 70,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "ROU",
@@ -330,7 +546,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 60,
+            "politicalStability": 75,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "BGR",
@@ -339,7 +561,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "GRC",
@@ -348,7 +576,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 82,
+            "politicalStability": 78,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "CYP",
@@ -357,7 +591,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 82,
+            "politicalStability": 60,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "CYN",
@@ -366,7 +606,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 70,
+            "politicalStability": 60,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "SOM",
@@ -375,7 +621,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 12,
+            "healthEpidemic": 18,
+            "politicalStability": 8,
+            "naturalDisaster": 25
+        }
     },
     {
         "id": "SOL",
@@ -384,7 +636,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 28,
+            "politicalStability": 52,
+            "naturalDisaster": 28
+        }
     },
     {
         "id": "MLT",
@@ -393,7 +651,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 93,
+            "healthEpidemic": 90,
+            "politicalStability": 88,
+            "naturalDisaster": 95
+        }
     },
     {
         "id": "EST",
@@ -402,7 +666,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 84,
+            "politicalStability": 90,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "LVA",
@@ -411,7 +681,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 78,
+            "politicalStability": 85,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "LTU",
@@ -420,7 +696,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 90
+        }
     },
     {
         "id": "SVN",
@@ -429,7 +711,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "HRV",
@@ -438,7 +726,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "SRB",
@@ -447,7 +741,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 68,
+            "healthEpidemic": 70,
+            "politicalStability": 52,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "BIH",
@@ -456,7 +756,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 62,
+            "politicalStability": 42,
+            "naturalDisaster": 58
+        }
     },
     {
         "id": "MNE",
@@ -465,7 +771,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 86,
+            "healthEpidemic": 68,
+            "politicalStability": 75,
+            "naturalDisaster": 63
+        }
     },
     {
         "id": "MKD",
@@ -474,7 +786,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 68,
+            "politicalStability": 64,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "ALB",
@@ -483,7 +801,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 65,
+            "politicalStability": 70,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "BLR",
@@ -492,7 +816,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 68,
+            "politicalStability": 30,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "UKR",
@@ -501,7 +831,13 @@
         "description": "Military actions are currently taking place on the territory of Ukraine.",
         "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 35,
+            "politicalStability": 15,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "MDA",
@@ -510,7 +846,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 78,
+            "healthEpidemic": 55,
+            "politicalStability": 45,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "GEO",
@@ -519,7 +861,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 68,
+            "politicalStability": 48,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "ARM",
@@ -528,7 +876,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 70,
+            "politicalStability": 50,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "AZE",
@@ -537,7 +891,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 68,
+            "politicalStability": 55,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "TUR",
@@ -546,7 +906,13 @@
         "description": "Iran-linked tensions raise terrorism and escalation risks in Turkey.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 75,
+            "politicalStability": 45,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "RUS",
@@ -555,7 +921,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 68,
+            "healthEpidemic": 65,
+            "politicalStability": 35,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "LIE",
@@ -564,7 +936,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 98,
+            "healthEpidemic": 96,
+            "politicalStability": 98,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "SMR",
@@ -573,7 +951,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 97,
+            "healthEpidemic": 96,
+            "politicalStability": 97,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "MCO",
@@ -582,7 +966,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 98,
+            "healthEpidemic": 96,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "AND",
@@ -591,7 +981,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 96,
+            "healthEpidemic": 94,
+            "politicalStability": 97,
+            "naturalDisaster": 82
+        }
     },
     {
         "id": "VAT",
@@ -600,7 +996,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 94,
+            "politicalStability": 98,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "GTM",
@@ -609,7 +1011,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 48,
+            "politicalStability": 45,
+            "naturalDisaster": 38
+        }
     },
     {
         "id": "HND",
@@ -618,7 +1026,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 28,
+            "healthEpidemic": 45,
+            "politicalStability": 38,
+            "naturalDisaster": 32
+        }
     },
     {
         "id": "SLV",
@@ -627,7 +1041,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 58,
+            "politicalStability": 65,
+            "naturalDisaster": 34
+        }
     },
     {
         "id": "NIC",
@@ -636,7 +1056,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 58,
+            "politicalStability": 20,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "CRI",
@@ -645,7 +1071,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 85,
+            "politicalStability": 90,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "PAN",
@@ -654,7 +1086,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 78,
+            "politicalStability": 75,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "BLZ",
@@ -663,7 +1101,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 59,
+            "politicalStability": 69,
+            "naturalDisaster": 37
+        }
     },
     {
         "id": "CUB",
@@ -672,7 +1116,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 45,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "DOM",
@@ -681,7 +1131,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 70,
+            "politicalStability": 72,
+            "naturalDisaster": 42
+        }
     },
     {
         "id": "HTI",
@@ -690,7 +1146,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 10,
+            "healthEpidemic": 15,
+            "politicalStability": 5,
+            "naturalDisaster": 20
+        }
     },
     {
         "id": "JAM",
@@ -699,7 +1161,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 62,
+            "politicalStability": 75,
+            "naturalDisaster": 42
+        }
     },
     {
         "id": "TTO",
@@ -708,7 +1176,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 65,
+            "politicalStability": 78,
+            "naturalDisaster": 72
+        }
     },
     {
         "id": "BRB",
@@ -717,7 +1191,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 82,
+            "politicalStability": 92,
+            "naturalDisaster": 58
+        }
     },
     {
         "id": "BHS",
@@ -726,7 +1206,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 59,
+            "healthEpidemic": 75,
+            "politicalStability": 88,
+            "naturalDisaster": 37
+        }
     },
     {
         "id": "ATG",
@@ -735,7 +1221,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 72,
+            "healthEpidemic": 70,
+            "politicalStability": 88,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "DMA",
@@ -744,7 +1236,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 78,
+            "healthEpidemic": 65,
+            "politicalStability": 88,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "GRD",
@@ -753,7 +1251,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 68,
+            "politicalStability": 88,
+            "naturalDisaster": 42
+        }
     },
     {
         "id": "KNA",
@@ -762,7 +1266,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 75,
+            "politicalStability": 90,
+            "naturalDisaster": 39
+        }
     },
     {
         "id": "LCA",
@@ -771,7 +1281,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 69,
+            "healthEpidemic": 70,
+            "politicalStability": 88,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "VCT",
@@ -780,7 +1296,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 73,
+            "politicalStability": 88,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "COL",
@@ -789,7 +1311,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 64,
+            "politicalStability": 45,
+            "naturalDisaster": 38
+        }
     },
     {
         "id": "VEN",
@@ -798,7 +1326,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 12,
+            "healthEpidemic": 23,
+            "politicalStability": 5,
+            "naturalDisaster": 46
+        }
     },
     {
         "id": "ECU",
@@ -807,7 +1341,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 60,
+            "politicalStability": 40,
+            "naturalDisaster": 32
+        }
     },
     {
         "id": "PER",
@@ -816,7 +1356,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 37,
+            "healthEpidemic": 60,
+            "politicalStability": 35,
+            "naturalDisaster": 30
+        }
     },
     {
         "id": "BOL",
@@ -825,7 +1371,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 50,
+            "politicalStability": 35,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "PRY",
@@ -834,7 +1386,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 68,
+            "healthEpidemic": 55,
+            "politicalStability": 70,
+            "naturalDisaster": 82
+        }
     },
     {
         "id": "URY",
@@ -843,7 +1401,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 72,
+            "healthEpidemic": 78,
+            "politicalStability": 82,
+            "naturalDisaster": 88
+        }
     },
     {
         "id": "GUY",
@@ -852,7 +1416,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 50,
+            "politicalStability": 55,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "SUR",
@@ -861,7 +1431,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 58,
+            "healthEpidemic": 60,
+            "politicalStability": 65,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "TWN",
@@ -870,7 +1446,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 88,
+            "politicalStability": 80,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "HKG",
@@ -879,7 +1461,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 92,
+            "politicalStability": 60,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "MAC",
@@ -888,7 +1476,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 91,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "SGP",
@@ -897,7 +1491,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 94,
+            "politicalStability": 90,
+            "naturalDisaster": 85
+        }
     },
     {
         "id": "MYS",
@@ -906,7 +1506,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 78,
+            "healthEpidemic": 75,
+            "politicalStability": 80,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "IDN",
@@ -915,7 +1521,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 65,
+            "politicalStability": 60,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "PHL",
@@ -924,7 +1536,13 @@
         "description": "Threat of earthquakes in the region.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 60,
+            "politicalStability": 60,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "VNM",
@@ -933,7 +1551,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 72,
+            "politicalStability": 78,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "LAO",
@@ -942,7 +1566,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "MMR",
@@ -951,7 +1581,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 45,
+            "politicalStability": 20,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "BRN",
@@ -960,7 +1596,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 85,
+            "politicalStability": 88,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "NPL",
@@ -969,7 +1611,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 60,
+            "politicalStability": 60,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "BTN",
@@ -978,7 +1626,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 75,
+            "politicalStability": 88,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "BGD",
@@ -987,7 +1641,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 55,
+            "politicalStability": 65,
+            "naturalDisaster": 30
+        }
     },
     {
         "id": "PAK",
@@ -996,7 +1656,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 50,
+            "politicalStability": 35,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "LKA",
@@ -1005,7 +1671,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 72,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MDV",
@@ -1014,7 +1686,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 78,
+            "politicalStability": 70,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "KHM",
@@ -1023,7 +1701,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 58,
+            "politicalStability": 65,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "ARE",
@@ -1032,7 +1716,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 92,
+            "healthEpidemic": 90,
+            "politicalStability": 88,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "SAU",
@@ -1041,7 +1731,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 82,
+            "politicalStability": 80,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "QAT",
@@ -1050,7 +1746,13 @@
         "description": "There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 93,
+            "healthEpidemic": 88,
+            "politicalStability": 92,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "BHR",
@@ -1059,7 +1761,13 @@
         "description": "There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 80
+        }
     },
     {
         "id": "KWT",
@@ -1068,7 +1776,13 @@
         "description": "Military operations are taking place in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 84,
+            "politicalStability": 78,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "OMN",
@@ -1077,7 +1791,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 88,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "IRN",
@@ -1086,7 +1806,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 55,
+            "politicalStability": 5,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "IRQ",
@@ -1095,7 +1821,13 @@
         "description": "Civil unrest, There is military action in the region.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 55,
+            "politicalStability": 15,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "JOR",
@@ -1104,7 +1836,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "LBN",
@@ -1113,7 +1851,13 @@
         "description": "There is a military conflict and a humanitarian catastrophe in the country.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 45,
+            "politicalStability": 10,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "SYR",
@@ -1122,7 +1866,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 25,
+            "politicalStability": 20,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "YEM",
@@ -1131,7 +1881,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 20,
+            "politicalStability": 10,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "ISR",
@@ -1140,7 +1896,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 88,
+            "politicalStability": 55,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "WBG",
@@ -1149,7 +1911,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 60,
+            "politicalStability": 20,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "PSE",
@@ -1158,7 +1926,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 50,
+            "politicalStability": 15,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "KAZ",
@@ -1167,7 +1941,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 70,
+            "politicalStability": 75,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "KGZ",
@@ -1176,7 +1956,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 70,
+            "politicalStability": 60,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "TJK",
@@ -1185,7 +1971,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 60,
+            "politicalStability": 50,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "TKM",
@@ -1194,7 +1986,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "UZB",
@@ -1203,7 +2001,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 72,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MNG",
@@ -1212,7 +2016,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 70,
+            "politicalStability": 75,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "PRK",
@@ -1221,7 +2031,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 55,
+            "politicalStability": 35,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "TLS",
@@ -1230,7 +2046,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Asia",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 60,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "CHL",
@@ -1239,7 +2061,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 70,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "GUF",
@@ -1248,7 +2076,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "South America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "ATA",
@@ -1257,7 +2091,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Other",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 100,
+            "healthEpidemic": 30,
+            "politicalStability": 100,
+            "naturalDisaster": 10
+        }
     },
     {
         "id": "GRL",
@@ -1266,7 +2106,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 70,
+            "politicalStability": 85,
+            "naturalDisaster": 25
+        }
     },
     {
         "id": "FRO",
@@ -1275,7 +2121,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 98,
+            "healthEpidemic": 88,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "BMU",
@@ -1284,7 +2136,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "SPM",
@@ -1293,7 +2151,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "North America",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 85,
+            "politicalStability": 95,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "AGO",
@@ -1302,7 +2166,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 45,
+            "politicalStability": 55,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "NGA",
@@ -1311,7 +2181,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 40,
+            "politicalStability": 25,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "NER",
@@ -1320,7 +2196,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 35,
+            "politicalStability": 20,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "KEN",
@@ -1329,7 +2211,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "SDS",
@@ -1338,7 +2226,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 25,
+            "politicalStability": 15,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "TZA",
@@ -1347,7 +2241,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "UGA",
@@ -1356,7 +2256,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 55,
+            "politicalStability": 65,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "GHA",
@@ -1365,7 +2271,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 75,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "MAR",
@@ -1374,7 +2286,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 70,
+            "politicalStability": 75,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "DZA",
@@ -1383,7 +2301,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 70,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "TUN",
@@ -1392,7 +2316,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 70,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "ETH",
@@ -1401,7 +2331,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 45,
+            "politicalStability": 40,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "SEN",
@@ -1410,7 +2346,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 80,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "CIV",
@@ -1419,7 +2361,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "LBY",
@@ -1428,7 +2376,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 20,
+            "healthEpidemic": 35,
+            "politicalStability": 15,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "SDN",
@@ -1437,7 +2391,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 20,
+            "healthEpidemic": 30,
+            "politicalStability": 15,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "TCD",
@@ -1446,7 +2406,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 30,
+            "politicalStability": 20,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "MLI",
@@ -1455,7 +2421,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 35,
+            "politicalStability": 15,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "MRT",
@@ -1464,7 +2436,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "SAH",
@@ -1473,7 +2451,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 50,
+            "politicalStability": 20,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "GMB",
@@ -1482,7 +2466,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "GNB",
@@ -1491,7 +2481,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 50,
+            "politicalStability": 40,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "GIN",
@@ -1500,7 +2496,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 45,
+            "politicalStability": 50,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "GNQ",
@@ -1509,7 +2511,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 50,
+            "politicalStability": 55,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "SLE",
@@ -1518,7 +2526,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 45,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "LBR",
@@ -1527,7 +2541,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 45,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "TGO",
@@ -1536,7 +2556,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 45,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "BEN",
@@ -1545,7 +2571,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "BFA",
@@ -1554,7 +2586,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 25,
+            "healthEpidemic": 40,
+            "politicalStability": 20,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "CMR",
@@ -1563,7 +2601,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 50,
+            "politicalStability": 45,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "COG",
@@ -1572,7 +2616,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "GAB",
@@ -1581,7 +2631,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 65,
+            "politicalStability": 70,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "RWA",
@@ -1590,7 +2646,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 80,
+            "politicalStability": 90,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "BDI",
@@ -1599,7 +2661,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 30,
+            "healthEpidemic": 35,
+            "politicalStability": 25,
+            "naturalDisaster": 55
+        }
     },
     {
         "id": "ZMB",
@@ -1608,7 +2676,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MWI",
@@ -1617,7 +2691,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 60,
+            "politicalStability": 75,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MOZ",
@@ -1626,7 +2706,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 55,
+            "politicalStability": 45,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "ZWE",
@@ -1635,7 +2721,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 50,
+            "politicalStability": 50,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "BWA",
@@ -1644,7 +2736,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 75,
+            "politicalStability": 85,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "NAM",
@@ -1653,7 +2751,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "LSO",
@@ -1662,7 +2766,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 55,
+            "politicalStability": 60,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "SWZ",
@@ -1671,7 +2781,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 60,
+            "politicalStability": 60,
+            "naturalDisaster": 65
+        }
     },
     {
         "id": "MDG",
@@ -1680,7 +2796,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 50,
+            "politicalStability": 55,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "ERI",
@@ -1689,7 +2811,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 50,
+            "politicalStability": 30,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "DJI",
@@ -1698,7 +2826,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 70,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "XKX",
@@ -1707,7 +2841,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Europe",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 65,
+            "politicalStability": 60,
+            "naturalDisaster": 75
+        }
     },
     {
         "id": "NCL",
@@ -1716,7 +2856,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 70
+        }
     },
     {
         "id": "VUT",
@@ -1725,7 +2871,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "FJI",
@@ -1734,7 +2886,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 75,
+            "politicalStability": 80,
+            "naturalDisaster": 45
+        }
     },
     {
         "id": "PRI",
@@ -1743,7 +2901,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "safe",
         "region": "Caribbean",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 80,
+            "politicalStability": 70,
+            "naturalDisaster": 60
+        }
     },
     {
         "id": "SLB",
@@ -1752,7 +2916,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 65,
+            "politicalStability": 75,
+            "naturalDisaster": 50
+        }
     },
     {
         "id": "CAF",
@@ -1761,7 +2931,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 10,
+            "healthEpidemic": 20,
+            "politicalStability": 5,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "COD",
@@ -1770,7 +2946,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Africa",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 10,
+            "healthEpidemic": 25,
+            "politicalStability": 10,
+            "naturalDisaster": 35
+        }
     },
     {
         "id": "FLK",
@@ -1779,7 +2961,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "South Atlantica",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 98,
+            "healthEpidemic": 85,
+            "politicalStability": 95,
+            "naturalDisaster": 25
+        }
     },
     {
         "id": "PNG",
@@ -1788,7 +2976,13 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "avoid",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 50,
+            "politicalStability": 45,
+            "naturalDisaster": 40
+        }
     },
     {
         "id": "ATF",
@@ -1797,6 +2991,12 @@
         "description": "Safety details not available yet. Use standard precautions.",
         "safetyStatus": "caution",
         "region": "Oceania",
-        "sendNotification": false
+        "sendNotification": false,
+        "riskBreakdown": {
+            "crimeLevel": 100,
+            "healthEpidemic": 35,
+            "politicalStability": 100,
+            "naturalDisaster": 10
+        }
     }
 ] 
