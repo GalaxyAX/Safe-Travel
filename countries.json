@@ -528,8 +528,8 @@
         "id": "HUN",
         "name": "Hungary",
         "flag": "🇭🇺",
-        "description": "Threat of political provocations.",
-        "safetyStatus": "caution",
+        "description": "There is a high level of security throughout the country.",
+        "safetyStatus": "safe",
         "region": "Europe",
         "sendNotification": false,
         "riskBreakdown": {
