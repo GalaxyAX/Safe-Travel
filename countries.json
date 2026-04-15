@@ -903,10 +903,10 @@
         "id": "TUR",
         "name": "Turkey",
         "flag": "🇹🇷",
-        "description": "Iran-linked tensions raise terrorism and escalation risks in Turkey.",
-        "safetyStatus": "caution",
+        "description": "Potential systemic issues with youth access to firearms and mental health support.",
+        "safetyStatus": "avoid",
         "region": "Asia",
-        "sendNotification": false,
+        "sendNotification": true,
         "riskBreakdown": {
             "crimeLevel": 45,
             "healthEpidemic": 75,
