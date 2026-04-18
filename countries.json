@@ -1714,7 +1714,7 @@
         "name": "United Arab Emirates",
         "flag": "🇦🇪",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false,
         "riskBreakdown": {
@@ -1729,7 +1729,7 @@
         "name": "Saudi Arabia",
         "flag": "🇸🇦",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false,
         "riskBreakdown": {
@@ -1744,7 +1744,7 @@
         "name": "Qatar",
         "flag": "🇶🇦",
         "description": "There is military action in the region.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false,
         "riskBreakdown": {
@@ -1789,7 +1789,7 @@
         "name": "Oman",
         "flag": "🇴🇲",
         "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "caution",
         "region": "Asia",
         "sendNotification": false,
         "riskBreakdown": {
