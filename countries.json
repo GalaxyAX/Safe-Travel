@@ -318,14 +318,14 @@
         "id": "NLD",
         "name": "Netherlands",
         "flag": "🇳🇱",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "description": "The country is experiencing mass unrest and protests, and human rights are being violated.",
+        "safetyStatus": "avoid",
         "region": "Europe",
         "sendNotification": false,
         "riskBreakdown": {
             "crimeLevel": 80,
             "healthEpidemic": 93,
-            "politicalStability": 90,
+            "politicalStability": 25,
             "naturalDisaster": 80
         }
     },
@@ -423,8 +423,8 @@
         "id": "DNK",
         "name": "Denmark",
         "flag": "🇩🇰",
-        "description": "The country is experiencing mass unrest and protests, and human rights are being violated.",
-        "safetyStatus": "avoid",
+        "description": "The country maintains a normal level of safety.",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": true,
         "riskBreakdown": {
