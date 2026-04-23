@@ -430,7 +430,7 @@
         "riskBreakdown": {
             "crimeLevel": 93,
             "healthEpidemic": 95,
-            "politicalStability": 25,
+            "politicalStability": 75,
             "naturalDisaster": 90
         }
     },
