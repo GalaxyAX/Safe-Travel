@@ -423,10 +423,10 @@
         "id": "DNK",
         "name": "Denmark",
         "flag": "🇩🇰",
-        "description": "Safety details not available yet. Use standard precautions.",
-        "safetyStatus": "caution",
+        "description": "The country is experiencing mass unrest and protests, and human rights are being violated.",
+        "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false,
+        "sendNotification": true,
         "riskBreakdown": {
             "crimeLevel": 93,
             "healthEpidemic": 95,
