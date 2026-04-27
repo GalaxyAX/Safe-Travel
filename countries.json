@@ -318,8 +318,8 @@
         "id": "NLD",
         "name": "Netherlands",
         "flag": "🇳🇱",
-        "description": "The country is experiencing mass unrest and protests, and human rights are being violated.",
-        "safetyStatus": "avoid",
+        "description": "There is a risk of mass civil protests and clashes with the police.",
+        "safetyStatus": "caution",
         "region": "Europe",
         "sendNotification": false,
         "riskBreakdown": {
