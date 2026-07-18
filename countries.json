@@ -4,14 +4,14 @@
         "name": "United States of America",
         "flag": "🇺🇸",
         "description": "Cyberattacks may disrupt critical infrastructure systems.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "North America",
         "sendNotification": true,
         "riskBreakdown": {
             "crimeLevel": 65,
             "healthEpidemic": 80,
             "politicalStability": 70,
-            "naturalDisaster": 55
+            "naturalDisaster": 20
         }
     },
     {
