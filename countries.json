@@ -79,11 +79,11 @@
         "name": "Germany",
         "flag": "🇩🇪",
         "description": "Generally safe for travelers with standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "avoid",
         "region": "Europe",
-        "sendNotification": false,
+        "sendNotification": true,
         "riskBreakdown": {
-            "crimeLevel": 80,
+            "crimeLevel": 60,
             "healthEpidemic": 90,
             "politicalStability": 85,
             "naturalDisaster": 80
