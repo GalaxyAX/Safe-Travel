@@ -49,9 +49,9 @@
         "name": "United Kingdom",
         "flag": "🇬🇧",
         "description": "Generally safe for travelers with standard precautions.",
-        "safetyStatus": "caution",
+        "safetyStatus": "safe",
         "region": "Europe",
-        "sendNotification": false,
+        "sendNotification": true,
         "riskBreakdown": {
             "crimeLevel": 75,
             "healthEpidemic": 85,
