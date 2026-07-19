@@ -19,14 +19,14 @@
         "name": "Canada",
         "flag": "🇨🇦",
         "description": "Very safe destination with excellent healthcare and low crime rates.",
-        "safetyStatus": "avoid",
+        "safetyStatus": "safe",
         "region": "North America",
         "sendNotification": true,
         "riskBreakdown": {
-            "crimeLevel": 20,
+            "crimeLevel": 70,
             "healthEpidemic": 80,
             "politicalStability": 70,
-            "naturalDisaster": 65
+            "naturalDisaster": 75
         }
     },
     {
